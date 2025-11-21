@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, I'm Kerim.
+I'm Computer Engineering Student @ Hacettepe University
 
 <!--
 **Kerim-Altny/Kerim-Altny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 **I’m currently learning:** C++, Data Structures & Algorithms, and Unity.
+- 🛠 **I have experience with:** Python (Scripting & Automation) and Java (OOP).
+
