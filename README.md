@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 **I’m currently learning:** C++, Data Structures & Algorithms, and Unity.
-- 🛠 **I have experience with:** Python (Scripting & Automation) and Java (OOP).
+- 🔭 **I’m currently learning:** Data Structures & Algorithms,Backend (FastAPI,Spring Boot).
+- 🛠 **I have experience with:** Python ,C++ Data Structures, Java (OOP) , Unity basics.
 
